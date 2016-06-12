@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "34aa1a22084b00421ac45fa172b3e95d",
+    "content-hash": "5f316c54a0efa8c9a26dc9a9932b298b",
+    "packages": [
+        {
+            "name": "alvsystems/sagepay-php-sdk",
+            "version": "0.1.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/alvsystems/sagepay-php-sdk.git",
+                "reference": "86c0fc3b9c1c3a362ce67fe90e0d27b60bed484e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/alvsystems/sagepay-php-sdk/zipball/86c0fc3b9c1c3a362ce67fe90e0d27b60bed484e",
+                "reference": "86c0fc3b9c1c3a362ce67fe90e0d27b60bed484e",
+                "shasum": ""
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "0.1.x-dev"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "lib/sagepay.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Alvin Chevolleaux",
+                    "email": "alvin@alvinchevolleaux.com"
+                }
+            ],
+            "description": "The official Sage Pay PHP SDK for server and direct integrations.",
+            "keywords": [
+                "gateway",
+                "php",
+                "sagepay",
+                "sdk"
+            ],
+            "time": "2015-09-18 12:14:10"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
