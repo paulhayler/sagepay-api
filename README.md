@@ -1,2 +1,2 @@
-# sagepay-api
-Standard SagePay integration in to static site
+# Standard Sage API
+Standard SagePay integration in to a static site
